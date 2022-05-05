@@ -29,24 +29,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![](https://i.imgur.com/REjhJmp.gif)
 
-## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-  I got help from two software engineer friends Luke Cranfill and Riley Marfin
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-   My biggest challenge with this project was not knowing any bit of javascript. I have only had an entry level introduction of computer science and the class was in Java so i truly knew nothing about javascript. A technical issue I encountered was that I couldn't figure out how to get the next sequence that is played to not blend in with the playback of the user's previous guess. I also found it difficult to find the right balance of tone length. Sometimes it felt like it was too long of a sound but when i shortened it, it still felt off in some way.
-
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
- I still don't really understand how my code works. I simply followed the tutorial but i'll be honest, I look back at the code and a lot of it does't fully register how it works. For example, I dont understand how the playTone vs startTone functions differ. I still dont understand what the if function (pattern[guessCounter] == btn) does either.
-
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-  If I had more time, I would have loved to figure out how I could've made the buttons the shape of the real Simon says game. I would have also wanted to be able to implement the real sound to it and not the generic tones we were given. An additional feature that could have made this a better game would have been to be able to randomize the pattern instead of a preset pattern.
-
-
-
-## Interview Recording URL Link
-
-[https://www.youtube.com/watch?v=XU6b27-15lI
 
 
 ## License
